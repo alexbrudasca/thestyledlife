@@ -75,3 +75,4 @@ const listMenu = document.querySelector('.listMenu')
 burgerMenu.addEventListener('click',()=>{
   // alert('test')
   listMenu.classList.toggle('active');
+})
